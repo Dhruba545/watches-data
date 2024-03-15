@@ -1,0 +1,53 @@
+[
+    {
+      "id": 6,
+      "name": "Xiaomi Mi Watch 999",
+      "price": 129
+    },
+    {
+      "id": 7,
+      "name": "Amazfit Bip U Pro",
+      "price": 69
+    },
+    {
+      "id": 8,
+      "name": "TicWatch Pro 3",
+      "price": 299
+    },
+    {
+      "id": 9,
+      "name": "Fossil Gen 5",
+      "price": 249
+    },
+    {
+      "id": 10,
+      "name": "Polar Vantage M",
+      "price": 279
+    },
+    {
+      "id": 11,
+      "name": "Suunto 7",
+      "price": 499
+    },
+    {
+      "id": 12,
+      "name": "Casio WSD-F30 Pro Trek",
+      "price": 549
+    },
+    {
+      "id": 13,
+      "name": "Mobvoi TicWatch E3",
+      "price": 199
+    },
+    {
+      "id": 14,
+      "name": "Withings Steel HR Sport",
+      "price": 199
+    },
+    {
+      "id": 15,
+      "name": "Sony SmartWatch 3",
+      "price": 149
+    }
+  ]
+  
